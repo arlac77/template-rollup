@@ -1,0 +1,10 @@
+{
+  "template": {
+    "files": [
+      {
+        "merger": "Rollup",
+        "pattern": "**/rollup.config.js"
+      }
+    ]
+  }
+}
