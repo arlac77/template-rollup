@@ -7,7 +7,11 @@
     "rollup": "^1.28.0",
     "@rollup/plugin-node-resolve": "^6.1.0",
     "@rollup/plugin-json": "^4.0.1",
-    "@rollup/plugin-commonjs": "^11.0.1"
+    "@rollup/plugin-commonjs": "^11.0.1",
+
+    "rollup-plugin-cleanup": "^3.1.1",
+    "rollup-plugin-babel": "^4.3.1",
+    "rollup-plugin-executable": "^1.5.2"
   },
   "template": {
     "files": [
