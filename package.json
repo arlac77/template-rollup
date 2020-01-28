@@ -5,6 +5,7 @@
     "@rollup/plugin-node-resolve": "^7.0.0",
     "@rollup/plugin-json": "^4.0.1",
     "@rollup/plugin-commonjs": "^11.0.1",
+    "@rollup/plugin-typescript": "^3.0.0",
     "rollup-plugin-executable": "^1.5.2",
     "rollup-plugin-native": "^1.2.6",
     "rollup-plugin-consts": "^1.0.1",
