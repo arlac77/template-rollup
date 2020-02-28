@@ -14,14 +14,14 @@
   },
   "template": {
     "usedBy": [
-      "arlac77/npm-package-template-svelte-app",
-      "arlac77/npm-package-template-vue-app",
-      "arlac77/npm-package-template-kronos-app",
-      "arlac77/npm-package-template"
+      "arlac77/template-svelte-app",
+      "arlac77/template-vue-app",
+      "arlac77/template-kronos-app",
+      "arlac77/template"
     ],
-    "files": [
+    "mergers": [
       {
-        "merger": "Rollup",
+        "type": "Rollup",
         "pattern": "**/rollup.config.js"
       }
     ]
