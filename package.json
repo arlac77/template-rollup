@@ -23,7 +23,7 @@
     "mergers": [
       {
         "type": "Rollup",
-        "pattern": "**/rollup.config.js"
+        "pattern": "**/rollup.config.*"
       }
     ]
   }
