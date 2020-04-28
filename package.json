@@ -10,7 +10,8 @@
     "rollup-plugin-native": "^1.2.13",
     "rollup-plugin-consts": "^1.0.1",
     "rollup-plugin-cleanup": "^3.1.1",
-    "rollup-plugin-babel": "^4.4.0"
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-dev": "^1.1.2"
   },
   "template": {
     "usedBy": [
