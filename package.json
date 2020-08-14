@@ -1,13 +1,13 @@
 {
   "devDependencies": {
     "builtin-modules": "^3.1.0",
-    "rollup": "^2.24.0",
+    "rollup": "^2.25.0",
     "@rollup/plugin-alias": "^3.1.1",
     "@rollup/plugin-node-resolve": "^9.0.0",
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-commonjs": "^15.0.0",
     "@rollup/plugin-typescript": "^5.0.2",
-    "@rollup/plugin-babel": "^5.1.0",
+    "@rollup/plugin-babel": "^5.2.0",
     "@rollup/plugin-virtual": "^2.0.3",
     "@rollup/plugin-inject": "^4.0.2",
     "rollup-plugin-executable": "^1.6.0",
