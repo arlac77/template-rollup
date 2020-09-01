@@ -19,6 +19,9 @@
     "rollup-plugin-gzip": "2.5.0"
   },
   "template": {
+    "properties": {
+      "rollup.config": "rollup.config.mjs"
+    },
     "usedBy": [
       "arlac77/template-node-app",
       "arlac77/template-svelte-app",
