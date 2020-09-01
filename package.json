@@ -20,7 +20,7 @@
   },
   "template": {
     "properties": {
-      "rollup": { "config" : "rollup.config.mjs" }
+      "rollup": { "config" : "" }
     },
     "usedBy": [
       "arlac77/template-node-app",
