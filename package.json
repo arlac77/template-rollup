@@ -23,7 +23,6 @@
       "rollup": { "config" : "" }
     },
     "usedBy": [
-      "arlac77/template-node-app",
       "arlac77/template-svelte-app",
       "arlac77/template-svelte-component",
       "arlac77/template-vue-app",
