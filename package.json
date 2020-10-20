@@ -20,12 +20,15 @@
   },
   "template": {
     "properties": {
-      "rollup": { "config" : "" }
+      "rollup": {
+        "config": ""
+      }
     },
     "usedBy": [
       "arlac77/template-svelte-app",
       "arlac77/template-svelte-component",
       "arlac77/template-vue-app",
+      "arlac77/uti",
       "k0nsti/konsum"
     ],
     "mergers": [
