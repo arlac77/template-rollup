@@ -22,6 +22,9 @@
     "properties": {
       "rollup": { "config" : "" }
     },
+    "inheritFrom": [
+      "arlac77/template-javascript"
+    ],
     "usedBy": [
       "arlac77/template-svelte-app",
       "arlac77/template-svelte-component",
