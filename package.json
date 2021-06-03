@@ -9,6 +9,7 @@
     "@rollup/plugin-babel": "^5.2.3",
     "@rollup/plugin-virtual": "^2.0.3",
     "@rollup/plugin-inject": "^4.0.2",
+    "@rollup/plugin-replace": "^2.4.2",
     "rollup-plugin-executable": "^1.6.2",
     "rollup-plugin-native": "^1.2.14",
     "rollup-plugin-consts": "^1.0.2",
