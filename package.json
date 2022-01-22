@@ -20,7 +20,8 @@
   },
   "template": {
     "properties": {
-      "rollup": { "config" : "" }
+      "rollup": { "config" : "" },
+      "testcafe": { "app": "\"rollup -c {{rollup.config}} -w\"" }
     },
     "inheritFrom": [
       "arlac77/template-javascript"
