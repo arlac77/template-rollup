@@ -24,7 +24,7 @@
         "config": ""
       },
       "testcafe": {
-        "app": "rollup -c {{rollup.config}} -w"
+        "app": "\"rollup -c {{rollup.config}} -w\""
       }
     },
     "inheritFrom": [
