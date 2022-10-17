@@ -8,7 +8,7 @@
     "@rollup/plugin-typescript": "^9.0.1",
     "@rollup/plugin-babel": "^6.0.0",
     "@rollup/plugin-virtual": "^3.0.0",
-    "@rollup/plugin-inject": "^5.0.0",
+    "@rollup/plugin-inject": "^5.0.1",
     "@rollup/plugin-replace": "^5.0.0",
     "rollup-plugin-executable": "^1.6.3",
     "rollup-plugin-native": "^1.2.16",
