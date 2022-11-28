@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "rollup": "^3.4.0",
+    "rollup": "^3.5.0",
     "@rollup/plugin-alias": "^4.0.0",
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-json": "^5.0.0",
